@@ -2,4 +2,4 @@ I am a ML/AI solutions engineer and lecturer, proficient in Python and Javascrip
 
 Linkedin: https://www.linkedin.com/in/nguyenvuhung/
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=vuhung16au&layout=compact&theme=onedark
+
