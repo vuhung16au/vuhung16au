@@ -3,3 +3,6 @@ I am a ML/AI solutions engineer and lecturer, proficient in Python and Javascrip
 Linkedin: https://www.linkedin.com/in/nguyenvuhung/
 
 
+![vuhung16au's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuhung16au&hide=contribs,prs)
+
+![vuhung16au's GitHub stats](https://github-readme-stats.vercel.app/api?username=vuhung16au&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
