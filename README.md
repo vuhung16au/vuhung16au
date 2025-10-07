@@ -1,4 +1,4 @@
-ML/AI Solutions Engineer & Lecturer — I build production-grade AI systems and data automation/visualization.
+ML/AI Solutions Engineer & Lecturer - I build production-grade AI systems and data automation/visualization.
 Now: focusing on Hugging Face, NLP, PyTorch, and LangChain; open to ML tooling collabs.
 
 Linkedin: https://www.linkedin.com/in/nguyenvuhung/
@@ -31,5 +31,8 @@ Linkedin: https://www.linkedin.com/in/nguyenvuhung/
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0B5FFF?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-7B61FF?style=flat-square)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![AI](https://img.shields.io/badge/AI-0B5FFF?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-7B61FF?style=flat-square)
+
 ### Currently
-Learning/Building: Hugging Face tooling, NLP workflows, PyTorch training loops, and LangChain apps. Open to collaborating on ML tooling and applied AI systems.
+Learning/Building: [Hugging Face tooling](https://github.com/vuhung16au/hf-transformer-trove), [NLP workflows](https://github.com/vuhung16au/nlp-learning-journey), [PyTorch training loops](https://github.com/vuhung16au/pytorch-mastery), [LangChain/LangGraph apps](https://github.com/vuhung16au/LangGraph-Adventures), [LaTeX tooling](https://github.com/vuhung16au/LaTeX-Research-Toolkit), and [Docker integrations](https://github.com/vuhung16au/docker-integrations-gallery). Open to collaborating on ML tooling and applied AI systems.
