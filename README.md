@@ -21,12 +21,19 @@ Linkedin: https://www.linkedin.com/in/nguyenvuhung/
 </picture>
 
 ### Featured projects
-- [gradeflow-ai](https://github.com/vuhung16au/gradeflow-ai) — Automated grading workflows powered by LLMs and structured evaluation.
-- [AI-powered quiz webapp](https://quiz-gotitright.vercel.app/) — Interactive quiz platform with AI-generated questions and adaptive learning.
+
+
+- [NLP Learning Journey](https://github.com/vuhung16au/nlp-learning-journey) — Personal learning journal and code collection for NLP fundamentals and advanced topics—demonstrates dedication to lifelong learning and teaching.
+- [LaTeX Research Toolkit](https://github.com/vuhung16au/LaTeX-Research-Toolkit) — Curated toolkit for academic research, papers, and theses. Essential for demonstrating ability to support reproducible research and documentation in academic settings.
 
 - [hf-transformer-trove](https://github.com/vuhung16au/hf-transformer-trove) — Curated models/notebooks to master the Hugging Face ecosystem.
 - [pytorch-mastery](https://github.com/vuhung16au/pytorch-mastery) — Hands-on PyTorch learning journey with practical patterns.
-- [ai-resume-jd-tailored](https://github.com/vuhung16au/ai-resume-jd-tailored) — Tailor resumes to job descriptions with AI-assisted workflows.
+
+- [AI-powered quiz webapp](https://quiz-gotitright.vercel.app/) — Interactive quiz platform with AI-generated questions and adaptive learning.
+
+<!-- - [ai-resume-jd-tailored](https://github.com/vuhung16au/ai-resume-jd-tailored) — Tailor resumes to job descriptions with AI-assisted workflows. -->
+
+<!-- - [gradeflow-ai](https://github.com/vuhung16au/gradeflow-ai) — Automated grading workflows powered by LLMs and structured evaluation. -->
 
 ### Tech stack
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
