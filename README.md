@@ -22,7 +22,8 @@ Linkedin: https://www.linkedin.com/in/nguyenvuhung/
 
 ### Featured projects
 - [gradeflow-ai](https://github.com/vuhung16au/gradeflow-ai) — Automated grading workflows powered by LLMs and structured evaluation.
-- [docker-integrations-gallery](https://github.com/vuhung16au/docker-integrations-gallery) — Ready-to-run Compose samples for stitching services together.
+- [AI-powered quiz webapp](https://quiz-gotitright.vercel.app/) — Interactive quiz platform with AI-generated questions and adaptive learning.
+
 - [hf-transformer-trove](https://github.com/vuhung16au/hf-transformer-trove) — Curated models/notebooks to master the Hugging Face ecosystem.
 - [pytorch-mastery](https://github.com/vuhung16au/pytorch-mastery) — Hands-on PyTorch learning journey with practical patterns.
 - [ai-resume-jd-tailored](https://github.com/vuhung16au/ai-resume-jd-tailored) — Tailor resumes to job descriptions with AI-assisted workflows.
