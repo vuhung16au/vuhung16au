@@ -22,14 +22,20 @@ Linkedin: https://www.linkedin.com/in/nguyenvuhung/
 
 ### Featured projects
 
+- [AI-powered quiz webapp](https://quiz-gotitright.vercel.app/) — Interactive quiz platform with AI-generated questions and adaptive learning.
 
-- [NLP Learning Journey](https://github.com/vuhung16au/nlp-learning-journey) — Personal learning journal and code collection for NLP fundamentals and advanced topics—demonstrates dedication to lifelong learning and teaching.
-- [LaTeX Research Toolkit](https://github.com/vuhung16au/LaTeX-Research-Toolkit) — Curated toolkit for academic research, papers, and theses. Essential for demonstrating ability to support reproducible research and documentation in academic settings.
 
 - [hf-transformer-trove](https://github.com/vuhung16au/hf-transformer-trove) — Curated models/notebooks to master the Hugging Face ecosystem.
+
+
+- [NLP Learning Journey](https://github.com/vuhung16au/nlp-learning-journey) — Personal learning journal and code collection for NLP fundamentals and advanced topics—demonstrates dedication to lifelong learning and teaching.
+
 - [pytorch-mastery](https://github.com/vuhung16au/pytorch-mastery) — Hands-on PyTorch learning journey with practical patterns.
 
-- [AI-powered quiz webapp](https://quiz-gotitright.vercel.app/) — Interactive quiz platform with AI-generated questions and adaptive learning.
+
+- [LaTeX Research Toolkit](https://github.com/vuhung16au/LaTeX-Research-Toolkit) — Curated toolkit for academic research, papers, and theses. Essential for demonstrating ability to support reproducible research and documentation in academic settings.
+
+
 
 <!-- - [ai-resume-jd-tailored](https://github.com/vuhung16au/ai-resume-jd-tailored) — Tailor resumes to job descriptions with AI-assisted workflows. -->
 
