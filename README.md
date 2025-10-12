@@ -1,7 +1,7 @@
 ML/AI Solutions Engineer & Lecturer - I build production-grade AI systems and data automation/visualization.
 Now: focusing on Hugging Face, NLP, PyTorch, and LangChain; open to ML tooling collabs.
 
-Linkedin: https://www.linkedin.com/in/nguyenvuhung/
+[LinkedIn](https://www.linkedin.com/in/nguyenvuhung/) | [Portfolio](https://vuhung16au.github.io/)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vuhung16au&theme=dark&hide_border=true&card_width=495&date_format=%5BY.%5Dn.j&fire=EB4D4D&ring=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=9BA3AF)
@@ -20,7 +20,7 @@ Linkedin: https://www.linkedin.com/in/nguyenvuhung/
   <img src="https://github-readme-stats.vercel.app/api?username=vuhung16au&show_icons=true&cache_seconds=21600" />
 </picture>
 
-### Featured projects
+### Featured Projects
 
 - [AI-powered quiz webapp](https://quiz-gotitright.vercel.app/) — Interactive quiz platform with AI-generated questions and adaptive learning.
 
@@ -41,7 +41,7 @@ Linkedin: https://www.linkedin.com/in/nguyenvuhung/
 
 <!-- - [gradeflow-ai](https://github.com/vuhung16au/gradeflow-ai) — Automated grading workflows powered by LLMs and structured evaluation. -->
 
-### Tech stack
+### Tech Stack
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0B5FFF?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-7B61FF?style=flat-square)
 
