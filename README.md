@@ -28,11 +28,11 @@ Now: focusing on Hugging Face, NLP, PyTorch, and LangChain; open to ML tooling c
 - [hf-transformer-trove](https://github.com/vuhung16au/hf-transformer-trove) — Curated models/notebooks to master the Hugging Face ecosystem.
 
 
-- [NLP Learning Journey](https://github.com/vuhung16au/nlp-learning-journey) — Personal learning journal and code collection for NLP fundamentals and advanced topics—demonstrates dedication to lifelong learning and teaching.
+- [NLP Learning Journey](https://github.com/vuhung16au/nlp-learning-journey) — Collection for NLP fundamentals and advanced topics—demonstrates.
 
 - [pytorch-mastery](https://github.com/vuhung16au/pytorch-mastery) — Hands-on PyTorch learning journey with practical patterns.
 
-- [Deep Learning 101](https://github.com/vuhung16au/101DeepLearning) - This book provides a comprehensive introduction to deep learning, covering fundamental mathematics, practical techniques, and advanced research topics.
+- [Deep Learning 101](https://github.com/vuhung16au/101DeepLearning) - 300 pages of compressed deep learning key concepts.
 
 <!-- - [LaTeX Research Toolkit](https://github.com/vuhung16au/LaTeX-Research-Toolkit) — Curated toolkit for academic research, papers, and theses. Essential for demonstrating ability to support reproducible research and documentation in academic settings. -->
 
