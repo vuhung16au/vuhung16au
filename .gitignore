@@ -2,3 +2,5 @@
 
 #Ignore cursor AI rules
 .cursor/rules/codacy.mdc
+.DS_Store
+.codacy*
